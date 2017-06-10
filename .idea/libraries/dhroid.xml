@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dhroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/dhroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

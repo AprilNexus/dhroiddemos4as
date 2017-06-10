@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alert">#ed5555</color>
+    <color name="black_alpha_bg">#dc000000</color>
+    <color name="grey_dark">#444444</color>
+    <color name="grey_light">#999999</color>
+    <color name="help">#fdc870</color>
+    <color name="link">#1aadc0</color>
+    <color name="list_line">#dddddd</color>
+    <color name="note">#cccccc</color>
+    <color name="white">#ffffff</color>
+    <color name="white_alpha45">#2dffffff</color>
+    <dimen name="testdimen">14sp</dimen>
+    <string name="app_name">dhroiddemos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
